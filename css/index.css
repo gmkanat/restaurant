@@ -1,0 +1,11 @@
+.restourants{
+    width: 95%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.restourants .resto{
+    width: 200px;
+    border: 1px solid #333;
+}
